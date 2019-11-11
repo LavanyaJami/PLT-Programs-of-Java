@@ -9,7 +9,7 @@ However if there is any tax saving investment, then there is further exemption o
 lac annually. This would mean that by having tax saving investments of about 1 lac, an
 income of 2 lacs is non-taxable. Display the annual gross, annual net and tax payable. */
 
-package com.pratian.qa.pltprograms;
+package com.pratian.qa.pltprograms.employee;
 
 public class EmployeeSalaryCalculation {
 
