@@ -24,7 +24,7 @@ public class Series_19B {
 		Scanner sc= new Scanner(System.in);
 		range= sc.nextInt();
 		
-		System.out.println("Seires: ");
+		System.out.println("Series: ");
 		for(i=1;sum<range; i++) {
 			
 			

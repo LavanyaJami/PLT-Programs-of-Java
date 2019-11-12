@@ -26,6 +26,9 @@ public class Series_12C {
 			for(int count=1;count<i;count++) {
 				number=number*i;
 			}
+			if(number>range) {
+				break;
+			}
 			System.out.println(number +" ");
 		}
 		
